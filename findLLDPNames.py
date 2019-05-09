@@ -1,7 +1,7 @@
 #!/usr/bin/env Python
 
 #open txt file
-with open('AP.txt') as f:
+with open('input.txt') as f:
 
 	#split the LLDP file
 	data = f.read().split()
