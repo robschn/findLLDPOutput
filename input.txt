@@ -1,4 +1,4 @@
-AP.410Hallway Gi6/0/39       120        W               0000.00c0.1008
+AP.410Superlon Gi6/0/39       120        W               0000.00c0.1008
 AP.337Hallway Gi6/0/1        120        W               0000.00c0.112e
 AP.344Hallway Gi6/0/5        120        W               0000.00c0.13ce
 AP.310Hallway Gi6/0/6        120        W               0000.00c0.13b0
